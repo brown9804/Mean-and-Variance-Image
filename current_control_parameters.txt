@@ -1,0 +1,26 @@
+Datos de entrada
+
+width: 352
+height: 288
+
+input image: input/claire000.bmp output directory: output/
+
+xi: 100
+yi: 250
+
+xf: 300
+yf: 150
+
+cx: 150
+cy: 120
+
+r: 100
+
+v1x: 100
+v1y: 100
+
+v2x: 200
+v2y: 100
+
+v3x: 200
+v3y: 200
